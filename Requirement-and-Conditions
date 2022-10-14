@@ -1,0 +1,15 @@
+1. There are 3 types of fishes based on their size. Determine points based on the following
+
+Big - 10 points
+
+Medium - 6 points
+
+Small - 3 points
+
+2. Take input from the user as a single string separating each fields with a colon
+
+ <participants name>:<participants age>:<big fish>:<medium fish>:<small fish>
+
+3. Age should be greater than or equal to 18, else print "<age> is an invalid age" and terminate the application
+
+4. If the fish count is less than 0 print "<fish count> is an invalid input" and terminate the application
