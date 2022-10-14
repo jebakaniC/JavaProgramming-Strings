@@ -1,0 +1,28 @@
+Sample Input/Output 1:
+
+Enter the details
+Hari:20:5:9:15
+Hari scored 149 points
+                   //Explanation for Points Calculation - Example 1
+
+                  Big fish = 5*10 = 50
+                  Medium fish =  9*6 = 54
+                  Small fish = 15*3 = 45
+                  Total points = 50 + 54 + 45 = 149
+
+
+
+
+Sample Input/Output 2:
+
+Enter the details
+Sanjay:15:2:7:2
+15 is an invalid age
+
+
+
+Sample Input/Output 3:
+
+Enter the details
+Allan:22:-3:2:3
+-3 is an invalid input
